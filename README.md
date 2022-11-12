@@ -1,3 +1,6 @@
+# BLOG
+本サンプルコードの解説記事は<a href="http://samehack.com/angular-behaviorsubject/">こちら</a>
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
